@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 This is create at master branch
 This is new line
+=======
+This is file5.txt create at newfeature branch
+>>>>>>> newfeature

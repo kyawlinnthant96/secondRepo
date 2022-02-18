@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is stuff to change file4
+=======
+this content messup with later
+New line add
+>>>>>>> newfeature
